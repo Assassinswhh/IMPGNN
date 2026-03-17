@@ -6,6 +6,8 @@ This repository is the official implementation of the paper
 ## Introduction
 
 We propose a novel graph neural network framework for molecular property prediction that explicitly models **bond heterogeneity** in molecular graphs.
+<img width="1754" height="471" alt="image" src="https://github.com/user-attachments/assets/2c7e3aed-6991-478f-9aa6-a1c267c39d91" />
+
 
 Unlike conventional approaches that treat molecules as homogeneous graphs, our method constructs **bond-centric graph representations** to better capture the diverse types of chemical bonds. Based on this design, we introduce a **multi-graph learning framework** that leverages three complementary views of a molecule:
 
