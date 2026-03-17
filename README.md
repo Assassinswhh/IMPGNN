@@ -1,13 +1,9 @@
-# 项目名称
-
 This repository is the official implementation of the paper  
 "**Bond-aware Molecular Graph Learning with Multi-graph Interleaved Message Passing**".
 
 ---
 
 ## Introduction
-
-简要介绍你的方法：
 
 We propose a novel graph neural network framework for molecular property prediction that explicitly models **bond heterogeneity** in molecular graphs.
 
