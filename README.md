@@ -15,7 +15,7 @@ Unlike conventional approaches that treat molecules as homogeneous graphs, our m
 
 - Molecular graph
 - Bond graph
-- Augmented bond graph
+- Bond-aware graph
 
 To enable effective interaction across these views, we propose an **Interleaved Message Passing Graph Neural Network (IMPGNN)**, which performs message passing not only within each graph but also **across different graph views during node representation learning**. This design allows the model to capture richer structural and relational information compared to traditional multi-view methods that rely on late-stage fusion.
 。
