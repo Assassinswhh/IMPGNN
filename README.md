@@ -13,7 +13,7 @@ We propose a novel graph neural network framework for molecular property predict
 
 Unlike conventional approaches that treat molecules as homogeneous graphs, our method constructs **bond-centric graph representations** to better capture the diverse types of chemical bonds. Based on this design, we introduce a **multi-graph learning framework** that leverages three complementary views of a molecule:
 
-- Atom graph
+- Molecular graph
 - Bond graph
 - Augmented bond graph
 
